@@ -29,10 +29,19 @@ In the Kickstarter raw data I sorted and prepared for the analysis by creating n
 
 
 # Kickstarter Challenge Results
-# Conclusions Drawn for Theater Outcomes by Launch Date
+The information below tells us the conclusions based on Theater and Goals of the Kickstarte campaign
+
+### Conclusions Drawn for Theater Outcomes by Launch Date
 Looking at the line graph below, we can see a detailed trend. May and June had a relatively high number of Successful theater campaigns and December had the least. So it's good to say that the Play should be launched during May or June.
 - Knowing the right time to launch the campaign is very important for it to be successful.
 - We can also consider the duration or length of the campaign is also important to analyze. 
 
-![]()
+![](https://github.com/QIhunwoKingsley/Kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
+
+
+### Conclusions Drawn fro Outcomes Based on Goals
+The line chart below helps us to understand that Goals less than $1000 were 76% successful and most of the unsuccessful campaigns were around $45000 - $49999. Goals around $10000 - $14999 were 54% successful and 46% failed. 
+- From the data gathered, we can conclude that Louise's goal had a 54% chance of it being successful.
+- Having a considerable high goal can also affect the campaign.
+
 
