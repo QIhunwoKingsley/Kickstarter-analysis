@@ -1,3 +1,3 @@
 # Kickstarter Analysis 
-MSU Bootcamp. Week One Kickstarter campaign for Loius
-![Stacked Chat Week 1](/to/Stacked Chat Week 1) 
+Performing analysis on Kickstarter dataset to uncover trends based on specific factors that make project campaigns successful.
+
