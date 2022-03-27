@@ -9,7 +9,12 @@ In the Kickstarter raw data I sorted and prepared for the analysis by creating n
 
 ![](TableRead.png)
 
+
 - The following chart is based on the Outcomes of the Parent Category. This shows that Theater was the most successful overall. Whene I filtered Theater by United States and Great Britain campaigns. US had a total of 525 successful Theater kickstarters campaign and GB had a total of 258 successful Theater kickstarters campaign.
 
-![](Stacked%20ChatWeek%201.png)
+![](https://github.com/QIhunwoKingsley/Kickstarter-analysis/blob/main/Stacked%20Chat%20Week%201.png)
 
+
+- The following chart is based on the overall outcomes on Launched Dates. This chart shows that the month that launched the most successful Kickstarter campaigns was May. Also, January, June, July, and October all had the same number of failed campaigns launched.
+
+![](
