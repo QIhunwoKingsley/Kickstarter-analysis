@@ -25,11 +25,11 @@ In the Kickstarter raw data I sorted and prepared for the analysis by creating n
 ## Difficulties and Challenges Encountered
 - I faced some difficulties with the pivot table. Later, I realized where the error was and ammended the pivot table.
 - I faced a lot of challenges using the CountIfs() formular. Read the questions asked in slack about it, and the video resources in the challange.
-- The line chart I created didn't look like the sample given. Did some research and found and fixed the errors
+- The line chart I created didn't look like the sample given. Did some research and found and fixed the errors.
 
 
 # Kickstarter Challenge Results
-The information below tells us the conclusions based on Theater and Goals of the Kickstarte campaign
+The information below tells us the conclusions based on Theater and Goals of the Kickstarte campaign.
 
 ### Conclusions Drawn for Theater Outcomes by Launch Date
 Looking at the line graph below, we can see a detailed trend. May and June had a relatively high number of Successful theater campaigns and December had the least. So it's good to say that the Play should be launched during May or June.
@@ -44,4 +44,14 @@ The line chart below helps us to understand that Goals less than $1000 were 76% 
 - From the data gathered, we can conclude that Louise's goal had a 54% chance of it being successful.
 - Having a considerable high goal can also affect the campaign.
 
+![](https://github.com/QIhunwoKingsley/Kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
+
+### Limitations of the Dataset
+- US and UK are the countries where most of the plays were successful. If we had more information about the cities and the age group of people going and watching the play would have been interesting to see.
+- Information on the Genre of plays would have helped determine the success of plays and give better analysis to Louise. 
+
+
+### Other possible tables and/or graphs that we could create
+- A clustered column chart can be used to show the outcomes based on Launched Date.
+- A stacked column, Clustered column chart can be used to show Outcomes based on goals. 
