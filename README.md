@@ -11,4 +11,5 @@ In the Kickstarter raw data I sorted and prepared for the analysis by creating n
 
 - The following chart is based on the Outcomes of the Parent Category. This shows that Theater was the most successful overall. Whene I filtered Theater by United States and Great Britain campaigns. US had a total of 525 successful Theater kickstarters campaign and GB had a total of 258 successful Theater kickstarters campaign.
 
-![](
+![](Stacked%20ChatWeek%201.png)
+
