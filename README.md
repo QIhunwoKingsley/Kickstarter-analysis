@@ -7,3 +7,8 @@ I need to provide a visual representation feedback to Louise with insights to he
 ## Analysis and Challenges
 In the Kickstarter raw data I sorted and prepared for the analysis by creating new columns to show parent category, subcategory, Average Donation, convert dates, convert times, and a new column for the year of the Launched date.
 
+![](TableRead.png)
+
+- The following chart is based on the Outcomes of the Parent Category. This shows that Theater was the most successful overall. Whene I filtered Theater by United States and Great Britain campaigns. US had a total of 525 successful Theater kickstarters campaign and GB had a total of 258 successful Theater kickstarters campaign.
+
+![](
